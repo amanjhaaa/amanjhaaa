@@ -45,4 +45,3 @@ I believe in continuous learning, and I'm constantly exploring new technologies 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amanjhaaa&color=blueviolet)
 
-[![Aman Jha's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=amanjhaaa&theme=radical)](https://wakatime.com/)
