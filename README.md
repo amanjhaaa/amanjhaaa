@@ -34,3 +34,5 @@ I believe in continuous learning, and I'm constantly exploring new technologies 
 - **Email**: amanjhaa15915@gmail.com
 
 ![Aman Jha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanjhaaa&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanjhaaa&layout=compact&theme=radical)
