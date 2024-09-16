@@ -32,3 +32,5 @@ I believe in continuous learning, and I'm constantly exploring new technologies 
 ## 📫 Let's Connect!
 - **LinkedIn**: https://www.linkedin.com/in/aman-kumar-jha-5b000316b/
 - **Email**: amanjhaa15915@gmail.com
+
+![Aman Jha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanjhaaa&show_icons=true&theme=radical)
