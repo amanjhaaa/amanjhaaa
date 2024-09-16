@@ -36,3 +36,13 @@ I believe in continuous learning, and I'm constantly exploring new technologies 
 ![Aman Jha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanjhaaa&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanjhaaa&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amanjhaaa&theme=radical)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amanjhaaa&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Aman Jha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amanjhaaa&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=amanjhaaa&color=blueviolet)
+
+[![Aman Jha's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=amanjhaaa&theme=radical)](https://wakatime.com/)
